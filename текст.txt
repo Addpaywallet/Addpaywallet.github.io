@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ADDPAY — Храни и Плати в Крипте</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #0a0a0a;
+      color: #f0f0f0;
+    }
+
+    header {
+      background: #0d0d2d;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      color: #00cfff;
+      margin: 0;
+    }
+
+    section {
+      padding: 30px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+
+    .highlight {
+      color: #00cfff;
+    }
+
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      margin-top: 20px;
+    }
+
+    .feature {
+      background: #1a1a2e;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 10px;
+      width: 220px;
+    }
+
+    footer {
+      background: #0d0d2d;
+      text-align: center;
+      padding: 20px;
+      font-size: 14px;
+      color: #777;
+    }
+
+    a {
+      color: #00cfff;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ADDPAY Wallet</h1>
+    <p>Безопасно. Умно. Мгновенно.</p>
+  </header>
+
+  <section>
+    <h2>Что такое <span class="highlight">ADDPAY</span>?</h2>
+    <p>
+      ADDPAY — это криптокошелёк нового поколения, который позволяет тебе хранить криптовалюту,
+      оплачивать покупки через <strong>NFC</strong> и управлять своими активами в один клик.
+    </p>
+
+    <div class="features">
+      <div class="feature">
+        <h3>💳 Оплата по NFC</h3>
+        <p>Расплачивайся прямо с кошелька, не выводя крипту.</p>
+      </div>
+      <div class="feature">
+        <h3>🔒 Безопасность</h3>
+        <p>Все активы шифруются и защищены приватными ключами.</p>
+      </div>
+      <div class="feature">
+        <h3>📈 Торговля</h3>
+        <p>Обмен и торговля внутри приложения без лишних комиссий.</p>
+      </div>
+      <div class="feature">
+        <h3>📲 Удобство</h3>
+        <p>Интуитивный интерфейс — всё на расстоянии одного касания.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <h2>Присоединяйся</h2>
+    <p>
+      Мы уже начали путь. Поддержи проект или следи за обновлениями:
+    </p>
+    <ul>
+      <li>Telegram: <a href="https://t.me/ArmAdonts" target="_blank">@ArmAdonts</a></li>
+      <li>Email: <a href="mailto:Armcompanydont@gmail.com">Armcompanydont@gmail.com</a></li>
+      <li>GitHub: <a href="https://addpaywallet.github.io" target="_blank">addpaywallet.github.io</a></li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 ADDPAY. Все права защищены.
+  </footer>
+
+</body>
+</html>
